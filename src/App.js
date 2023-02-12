@@ -45,7 +45,6 @@ const App = () => {
       <Statistics text="Good" good={good} />
       <Statistics  text="Neutral" neutral={neutral}/>
       <Statistics text="Bad" bad={bad}/>
-      <Statistics text="All"/>
       
     </div>
   );
